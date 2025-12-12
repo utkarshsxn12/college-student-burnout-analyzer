@@ -54,7 +54,20 @@ Synthetic dataset designed to simulate real-world student lifestyle patterns.
 ---
 
 ## 🔮 Burnout Risk Prediction
-The system allows users to input their daily habits and
-predicts burnout risk instantly.
 
-Example:
+The system allows users to input their daily lifestyle and stress-related habits
+and instantly predicts their burnout risk category using a trained machine
+learning model.
+
+### Input Parameters:
+- Study hours per day
+- Sleep hours per day
+- Screen time (hours)
+- Stress level (1–10)
+- Caffeine intake (cups per day)
+- Productivity score (1–10)
+
+This feature demonstrates how behavioral data can be used in real time
+to identify early warning signs of burnout and mental overload among
+college students.
+
