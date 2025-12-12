@@ -1,0 +1,15 @@
+study_hours,sleep_hours,screen_time,stress_level,caffeine_cups,productivity,burnout_risk
+4,8,3,2,0,9,Low
+5,7,4,3,1,8,Low
+6,7,5,4,1,8,Low
+7,6,6,5,2,7,Medium
+8,6,7,6,2,6,Medium
+9,5,8,7,3,5,High
+10,4,9,9,4,3,High
+3,8,2,1,0,9,Low
+4,7,3,2,1,8,Low
+6,6,6,5,2,6,Medium
+7,5,6,6,3,6,Medium
+8,5,7,7,3,5,High
+9,4,8,8,4,4,High
+10,3,9,9,5,2,High
